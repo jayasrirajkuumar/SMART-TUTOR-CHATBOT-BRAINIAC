@@ -15,3 +15,7 @@ How to run the file ?
   http://127.0.0.1:8000
 
 Note : response generation may take some time due to the amount of datasets that are given in the intents.json
+
+below is the link for the ppt of our project :
+
+https://www.canva.com/design/DAGCLiOezPw/LlhUBU0NzhS2q6_Q9QOBEw/edit
