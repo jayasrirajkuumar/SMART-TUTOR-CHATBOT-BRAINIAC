@@ -11,3 +11,5 @@ How to run the file ?
   then open your browser ( edge or chrome recommended ) use this url :
 
   http://127.0.0.1:8000
+
+Note : response generation may take some time due to the amount of datasets that are given in the intents.json
